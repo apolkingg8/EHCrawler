@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{EHCrawler node_modules}" />
+    <file url="file://$PROJECT_DIR$/main.js" libraries="{ECMAScript 6, Node.js Globals, Node.js v1.6.3 Core Modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>

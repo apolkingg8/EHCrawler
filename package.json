@@ -1,0 +1,8 @@
+{
+  "name": "EHCrawler",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "^2.55.0",
+    "underscore": "^1.8.3"
+  }
+}
